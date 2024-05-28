@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "edCpISjp2iKX/rCZDg29bn69Ip3fUoOlBrTNtOBQOfeH/riLb78jVYTlfH1FwCpoiNsWTH+2hV+rQ7+/QJ0CRA==",
+  "success": true,
+  "projectFilePath": "/Users/soso/Downloads/DotNet5-xUnit/Temperatura/Temperatura.csproj",
+  "expectedPackageFiles": [
+    "/Users/soso/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/soso/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
