@@ -1,0 +1,12 @@
+/Users/soso/Downloads/DotNet5-MSTest/Temperatura/bin/Debug/net5.0/Temperatura.deps.json
+/Users/soso/Downloads/DotNet5-MSTest/Temperatura/bin/Debug/net5.0/Temperatura.dll
+/Users/soso/Downloads/DotNet5-MSTest/Temperatura/bin/Debug/net5.0/Temperatura.pdb
+/Users/soso/Downloads/DotNet5-MSTest/Temperatura/obj/Debug/net5.0/Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soso/Downloads/DotNet5-MSTest/Temperatura/obj/Debug/net5.0/Temperatura.AssemblyInfoInputs.cache
+/Users/soso/Downloads/DotNet5-MSTest/Temperatura/obj/Debug/net5.0/Temperatura.AssemblyInfo.cs
+/Users/soso/Downloads/DotNet5-MSTest/Temperatura/obj/Debug/net5.0/Temperatura.csproj.CoreCompileInputs.cache
+/Users/soso/Downloads/DotNet5-MSTest/Temperatura/obj/Debug/net5.0/Temperatura.sourcelink.json
+/Users/soso/Downloads/DotNet5-MSTest/Temperatura/obj/Debug/net5.0/Temperatura.dll
+/Users/soso/Downloads/DotNet5-MSTest/Temperatura/obj/Debug/net5.0/refint/Temperatura.dll
+/Users/soso/Downloads/DotNet5-MSTest/Temperatura/obj/Debug/net5.0/Temperatura.pdb
+/Users/soso/Downloads/DotNet5-MSTest/Temperatura/obj/Debug/net5.0/ref/Temperatura.dll
